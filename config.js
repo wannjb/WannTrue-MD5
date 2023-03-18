@@ -15,25 +15,25 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['62895327997477'] //ur owner number
-global.ownername = "Revolt" //ur owner name
-global.ytname = "YT: Mr.Revolt" //ur yt chanel name
-global.socialm = "GitHub: ImRevoltExee" //ur github or insta name
+global.ownername = "Wann" //ur owner name
+global.ytname = "YT: WannTrue" //ur yt chanel name
+global.socialm = "GitHub: wannjb" //ur github or insta name
 global.location = "Sidikalang, Indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6283164445159'] //ur number
-global.ownernomer = "6283164445159" //ur number
-global.ownertag = '6283164445159' //ur tag number
-global.premium = ['6283164445159'] //ur premium number
-global.botname = 'Rev-Bot' //ur bot name
-global.ownername = "Revolt"
-global.linkz = "https://chat.whatsapp.com/KBt8lh74kvUJ6gunrVkco4" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/RevoltExee" //ur website to be displayed
+global.owner = ['62895327997477'] //ur number
+global.ownernomer = "62895327997477" //ur number
+global.ownertag = '62895327997477' //ur tag number
+global.premium = ['62895327997477'] //ur premium number
+global.botname = 'Wann-Bot' //ur bot name
+global.ownername = "Wann"
+global.linkz = "https://chat.whatsapp.com/CecSFilYZ1d7w9EGbBvx9Q" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/WannTrue" //ur website to be displayed
 global.botscript = 'https://apirevolt.cyclic.app' //script link
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Revolt" //ur sticker watermark author
-global.wm = "Revolt" //ur watermark
+global.packname = "WannBot" //ur sticker watermark packname
+global.author = "Wann" //ur sticker watermark author
+global.wm = "Wann" //ur watermark
 
 // Other
 global.sessionName = 'session'
